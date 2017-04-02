@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.4.0"
+  },
+
+  "name": "Dylan Jefferson M. G. Guedes",
+  "contact": {
+    "phone": "+55 (61) 98665 1407",
+    "website1": "dylanguedes.github.io",
+    "website1_href": "https://dylanguedes.github.io",
+    "website2": "github.com/DylanGuedes",
+    "website2_href": "https://github.com/DylanGuedes",
+    "email": "djmgguedes@gmail.com"
+  },
+
+  "employment": {
+    "history": [
+      {
+        "employer": "Laboratório Avançado de Produção Pesquisa e Inovação em Software",
+        "position": "Developer",
+        "start": "2014-12",
+        "url": "https://gitlab.com/unb-gama",
+        "custom_summary": "Web developer; Main working with Ruby on Rails and Django.",
+        "keywords": ["Ruby", "Rails", "Django", "JavaScript", "agile", "free software"],
+        "highlights": [
+          "free software;",
+          "multiple projects"
+        ]
+      }
+    ]
+  },
+
+  "projects": [
+    {
+      "title": "Strife of Mythology",
+      "role": "Personal / University",
+      "url": "https://github.com/StrifeOfMythologyTD/SoMTD",
+      "start": "2016-03",
+      "end": "2016-08",
+      "summary": "2D Isometric Tower Defense using SDL2.",
+      "keywords": ["SDL2", "C++"]
+    }
+  ],
+
+  "education": {
+    "history": [
+      {
+        "institution": "Universidade de Brasília",
+        "course": "Bachelor in Software Engineering",
+        "url": "https://unb.br/",
+        "start": "2012-07",
+        "title": "Expected Graduation in December 2017."
+      }
+    ]
+  },
+
+  "skills": {
+    "sets": [
+      {
+        "name": "Web",
+        "level": "master",
+        "skills": [
+          "Elixir",
+          "Ruby on Rails",
+          "Django",
+          "EmberJS"
+        ]
+      },
+      {
+        "name": "Others",
+        "level": "advanced",
+        "skills": [
+          "RabbitMQ",
+          "Neural Networks",
+          "Docker",
+          "Vagrant",
+          "Continous Integration"
+        ]
+      }
+    ]
+  },
+
+  "languages": [
+    {
+      "language": "Portuguese",
+      "level": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "level": "Proficient"
+    }
+  ]
+}

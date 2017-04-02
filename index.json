@@ -1,0 +1,58 @@
+{
+  "basics": {
+    "name": "Dylan Jefferson M. G. Guedes",
+    "phone": "+55 (61) 98665 1407",
+    "email": "djmgguedes@gmail.com"
+  },
+  "work": [
+    {
+      "company": "Laboratório Avançado de Produção Pesquisa e Inovação em Software",
+      "website": "https://gitlab.com/unb-gama",
+      "position": "Developer",
+      "startDate": "2014-12",
+      "highlights": [
+        "free software;",
+        "multiple projects"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidade de Brasília",
+      "startDate": "2012-07"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web",
+      "level": "master",
+      "keywords": [
+        "Elixir",
+        "Ruby on Rails",
+        "Django",
+        "EmberJS"
+      ]
+    },
+    {
+      "name": "Others",
+      "level": "advanced",
+      "keywords": [
+        "RabbitMQ",
+        "Neural Networks",
+        "Docker",
+        "Vagrant",
+        "Continous Integration"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "level": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "level": "Proficient"
+    }
+  ]
+}
