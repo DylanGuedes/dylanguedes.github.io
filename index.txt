@@ -8,15 +8,16 @@ Tel: +55 (61) 98665 1407
 
 SKILLS -------------------------------------------------------------------------
 
-- Web: Elixir Ruby on Rails Django EmberJS 
-- Others: RabbitMQ Neural Networks Docker Vagrant Continous Integration 
+- Languages: Elixir Ruby Python Javascript 
+- Frameworks: Phoenix Rails EmberJS Django 
+- Others: RabbitMQ Neural Networks Docker Vagrant Continous Integration Lambda Architecture 
 
 EMPLOYMENT ---------------------------------------------------------------------
 
-Developer, Laboratório Avançado de Produção Pesquisa e Inovação em Software (2014-12 — Present)
+Developer, LAPPIS (2014-12 — Present)
 
 - free software;
-- multiple projects
+- multiple projects.
 
 
 PROJECTS -----------------------------------------------------------------------
@@ -24,6 +25,14 @@ PROJECTS -----------------------------------------------------------------------
 Strife of Mythology, Personal / University (2016-03 — 2016-08)
 
 2D Isometric Tower Defense using SDL2.
+
+Noosfero, LAPPIS (2014-12 — 2017-03)
+
+Maintained and evolved a Social Network
+
+Mezuro, LAPPIS (2016-08 — 2016-12)
+
+Maintained and evolved a metrics collector platform.
 
 
 

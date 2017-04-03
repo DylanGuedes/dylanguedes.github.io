@@ -17,15 +17,15 @@
   "employment": {
     "history": [
       {
-        "employer": "Laboratório Avançado de Produção Pesquisa e Inovação em Software",
+        "employer": "LAPPIS",
         "position": "Developer",
         "start": "2014-12",
         "url": "https://gitlab.com/unb-gama",
-        "custom_summary": "Web developer; Main working with Ruby on Rails and Django.",
+        "custom_summary": "Developer.",
         "keywords": ["Ruby", "Rails", "Django", "JavaScript", "agile", "free software"],
         "highlights": [
           "free software;",
-          "multiple projects"
+          "multiple projects."
         ]
       }
     ]
@@ -40,6 +40,24 @@
       "end": "2016-08",
       "summary": "2D Isometric Tower Defense using SDL2.",
       "keywords": ["SDL2", "C++"]
+    },
+    {
+      "title": "Noosfero",
+      "role": "LAPPIS",
+      "url": "http://noosfero.org",
+      "start": "2014-12",
+      "end": "2017-03",
+      "summary": "Maintained and evolved a Social Network",
+      "keywords": ["FOSS", "Ruby on Rails", "social network"]
+    },
+    {
+      "title": "Mezuro",
+      "role": "LAPPIS",
+      "url": "http://mezuro.org",
+      "start": "2016-08",
+      "end": "2016-12",
+      "summary": "Maintained and evolved a metrics collector platform.",
+      "keywords": ["FOSS", "Ruby on Rails", "metrics"]
     }
   ],
 
@@ -58,13 +76,23 @@
   "skills": {
     "sets": [
       {
-        "name": "Web",
+        "name": "Languages",
         "level": "master",
         "skills": [
           "Elixir",
-          "Ruby on Rails",
-          "Django",
-          "EmberJS"
+          "Ruby",
+          "Python",
+          "Javascript"
+        ]
+      },
+      {
+        "name": "Frameworks",
+        "level": "master",
+        "skills": [
+          "Phoenix",
+          "Rails",
+          "EmberJS",
+          "Django"
         ]
       },
       {
@@ -75,7 +103,8 @@
           "Neural Networks",
           "Docker",
           "Vagrant",
-          "Continous Integration"
+          "Continous Integration",
+          "Lambda Architecture"
         ]
       }
     ]

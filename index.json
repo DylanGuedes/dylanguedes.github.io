@@ -6,13 +6,13 @@
   },
   "work": [
     {
-      "company": "Laboratório Avançado de Produção Pesquisa e Inovação em Software",
+      "company": "LAPPIS",
       "website": "https://gitlab.com/unb-gama",
       "position": "Developer",
       "startDate": "2014-12",
       "highlights": [
         "free software;",
-        "multiple projects"
+        "multiple projects."
       ]
     }
   ],
@@ -24,13 +24,23 @@
   ],
   "skills": [
     {
-      "name": "Web",
+      "name": "Languages",
       "level": "master",
       "keywords": [
         "Elixir",
-        "Ruby on Rails",
-        "Django",
-        "EmberJS"
+        "Ruby",
+        "Python",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "master",
+      "keywords": [
+        "Phoenix",
+        "Rails",
+        "EmberJS",
+        "Django"
       ]
     },
     {
@@ -41,7 +51,8 @@
         "Neural Networks",
         "Docker",
         "Vagrant",
-        "Continous Integration"
+        "Continous Integration",
+        "Lambda Architecture"
       ]
     }
   ],
