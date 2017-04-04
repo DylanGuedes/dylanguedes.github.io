@@ -633,7 +633,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>Elixir  Ruby  Python  Javascript</w:t>
+            <w:t>Elixir  Ruby  Python  Javascript  C++</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -692,7 +692,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>Phoenix  Rails  EmberJS  Django</w:t>
+            <w:t>Phoenix  Rails  EmberJS  Django  SDL2</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -751,7 +751,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>RabbitMQ  Neural Networks  Docker  Vagrant  Continous Integration  Lambda Architecture</w:t>
+            <w:t>RabbitMQ  Neural Networks  Docker  Vagrant  Jenkins  Lambda Architecture</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -944,7 +944,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>2D Isometric Tower Defense using SDL2.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Developed SoMTD, a 2D Isometric Tower Defense, with C++ and SDL2.</w:t></w:r>
     </w:p>
 
 
@@ -986,7 +986,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Maintained and evolved a Social Network</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Maintained and evolved Noosfero, a FOSS Social Network, written with Ruby on Rails</w:t></w:r>
     </w:p>
 
 
@@ -1028,7 +1028,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Maintained and evolved a metrics collector platform.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Maintained and evolved Mezuro, a metrics collector platform written in Ruby on Rails</w:t></w:r>
     </w:p>
 
 

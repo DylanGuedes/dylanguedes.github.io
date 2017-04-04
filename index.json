@@ -30,7 +30,8 @@
         "Elixir",
         "Ruby",
         "Python",
-        "Javascript"
+        "Javascript",
+        "C++"
       ]
     },
     {
@@ -40,7 +41,8 @@
         "Phoenix",
         "Rails",
         "EmberJS",
-        "Django"
+        "Django",
+        "SDL2"
       ]
     },
     {
@@ -51,7 +53,7 @@
         "Neural Networks",
         "Docker",
         "Vagrant",
-        "Continous Integration",
+        "Jenkins",
         "Lambda Architecture"
       ]
     }
