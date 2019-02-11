@@ -16,13 +16,13 @@ projects:
     url: 'https://spark.apache.org/'
     start: 2018-01
     end: 2018-07
-    summary: 'Contributed to Apache Spark, a data processing engine. My main contribution was the addition of the `zip_array` function to SparkSQL, now available at Apache Spark 2.4.0. My contributions are available [here](https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes).'
+    summary: 'Contributed to Apache Spark, a data processing engine. My main contribution was the addition of the `arrays_zip` function to SparkSQL, now available at Apache Spark 2.4.0. My contributions are available [here](https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes).'
     keywords:
       - 'free software'
       - 'big data processing'
   -
     title: InterSCSimulator
-    role: University
+    role: 'Academic, IME/USP'
     url: 'https://github.com/DylanGuedes/interscsimulator-blue'
     start: 2018-08
     end: 2019-07
@@ -32,7 +32,7 @@ projects:
       - 'Distributed Processing'
   -
     title: InterSCity
-    role: University
+    role: 'Academic, IME/USP'
     url: 'https://gitlab.com/interscity/interscity-platform'
     start: 2017-08
     end: 2019-07
@@ -42,7 +42,7 @@ projects:
       - Backend
   -
     title: 'Strife of Mythology'
-    role: 'Personal / University'
+    role: 'Personal - Academic, FGA/UnB'
     url: 'https://github.com/StrifeOfMythologyTD/SoMTD'
     start: 2016-03
     end: 2016-08
@@ -53,7 +53,7 @@ projects:
       - 'Tower Defense'
   -
     title: Noosfero
-    role: LAPPIS
+    role: 'LAPPIS - Academic, FGA/UnB'
     url: 'http://noosfero.org'
     start: 2014-12
     end: 2016-03
@@ -63,7 +63,7 @@ projects:
       - 'social network'
   -
     title: Mezuro
-    role: LAPPIS
+    role: 'LAPPIS - Academic, FGA/UnB'
     url: 'http://mezuro.org'
     start: 2016-08
     end: 2016-12

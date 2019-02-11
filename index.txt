@@ -22,25 +22,25 @@ PROJECTS -----------------------------------------------------------------------
 
 Apache Spark, Personal (2018-01 — 2018-07)
 
-Contributed to Apache Spark, a data processing engine. My main contribution was the addition of the `zip_array` function to SparkSQL, now available at Apache Spark 2.4.0. My contributions are available [here](https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes).
+Contributed to Apache Spark, a data processing engine. My main contribution was the addition of the `arrays_zip` function to SparkSQL, now available at Apache Spark 2.4.0. My contributions are available [here](https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes).
 
-InterSCSimulator, University (2018-08 — 2019-07)
+InterSCSimulator, Academic, IME/USP (2018-08 — 2019-07)
 
 Contributed to InterSCSimulator, a smart cities simulator model built on top of SimDiasca, a general purpose large scaling simulator, both written in Erlang. I'm currently running a distributed experiment that simulates 100k+ vehicles in a São Paulo scenario in a cluster with 10+ nodes.
 
-InterSCity, University (2017-08 — 2019-07)
+InterSCity, Academic, IME/USP (2017-08 — 2019-07)
 
 Contributed to InterSCity, a smart cities platform built on top of a microservices architecture.
 
-Strife of Mythology, Personal / University (2016-03 — 2016-08)
+Strife of Mythology, Personal - Academic, FGA/UnB (2016-03 — 2016-08)
 
 Main developer of Strife of Mythology, a 2D Isometric Tower Defense written in C++ and SDL2.
 
-Noosfero, LAPPIS (2014-12 — 2016-03)
+Noosfero, LAPPIS - Academic, FGA/UnB (2014-12 — 2016-03)
 
 Contributed to Noosfero, a Social Network written with Ruby on Rails
 
-Mezuro, LAPPIS (2016-08 — 2016-12)
+Mezuro, LAPPIS - Academic, FGA/UnB (2016-08 — 2016-12)
 
 Contributed to Mezuro, a metrics collector platform written in Ruby on Rails
 

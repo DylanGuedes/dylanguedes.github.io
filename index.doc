@@ -855,7 +855,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Contributed to Apache Spark, a data processing engine. My main contribution was the addition of the </w:t></w:r><w:r><w:rPr></w:rPr><w:t>zip_array</w:t></w:r><w:r><w:rPr></w:rPr><w:t> function to SparkSQL, now available at Apache Spark 2.4.0. My contributions are available </w:t></w:r><w:hlink w:dest="https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>here</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Contributed to Apache Spark, a data processing engine. My main contribution was the addition of the </w:t></w:r><w:r><w:rPr></w:rPr><w:t>arrays_zip</w:t></w:r><w:r><w:rPr></w:rPr><w:t> function to SparkSQL, now available at Apache Spark 2.4.0. My contributions are available </w:t></w:r><w:hlink w:dest="https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>here</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>.</w:t></w:r>
     </w:p>
 
 
@@ -871,7 +871,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>University, </w:t>
+        <w:t>Academic, IME/USP, </w:t>
       </w:r>
       <w:hlink w:dest="https://github.com/DylanGuedes/interscsimulator-blue">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -913,7 +913,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>University, </w:t>
+        <w:t>Academic, IME/USP, </w:t>
       </w:r>
       <w:hlink w:dest="https://gitlab.com/interscity/interscity-platform">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -955,7 +955,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Personal / University, </w:t>
+        <w:t>Personal - Academic, FGA/UnB, </w:t>
       </w:r>
       <w:hlink w:dest="https://github.com/StrifeOfMythologyTD/SoMTD">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -997,7 +997,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>LAPPIS, </w:t>
+        <w:t>LAPPIS - Academic, FGA/UnB, </w:t>
       </w:r>
       <w:hlink w:dest="http://noosfero.org">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -1039,7 +1039,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>LAPPIS, </w:t>
+        <w:t>LAPPIS - Academic, FGA/UnB, </w:t>
       </w:r>
       <w:hlink w:dest="http://mezuro.org">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">

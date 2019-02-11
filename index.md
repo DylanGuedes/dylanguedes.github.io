@@ -23,29 +23,29 @@ Tel: +55 (11) 99778 7427
 ### *Personal*, [Apache Spark](https://spark.apache.org/) (2018-01 — 2018-07)
 
 
-Contributed to Apache Spark, a data processing engine. My main contribution was the addition of the `zip_array` function to SparkSQL, now available at Apache Spark 2.4.0. My contributions are available [here](https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes).
+Contributed to Apache Spark, a data processing engine. My main contribution was the addition of the `arrays_zip` function to SparkSQL, now available at Apache Spark 2.4.0. My contributions are available [here](https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes).
 
-### *University*, [InterSCSimulator](https://github.com/DylanGuedes/interscsimulator-blue) (2018-08 — 2019-07)
+### *Academic, IME/USP*, [InterSCSimulator](https://github.com/DylanGuedes/interscsimulator-blue) (2018-08 — 2019-07)
 
 
 Contributed to InterSCSimulator, a smart cities simulator model built on top of SimDiasca, a general purpose large scaling simulator, both written in Erlang. I'm currently running a distributed experiment that simulates 100k+ vehicles in a São Paulo scenario in a cluster with 10+ nodes.
 
-### *University*, [InterSCity](https://gitlab.com/interscity/interscity-platform) (2017-08 — 2019-07)
+### *Academic, IME/USP*, [InterSCity](https://gitlab.com/interscity/interscity-platform) (2017-08 — 2019-07)
 
 
 Contributed to InterSCity, a smart cities platform built on top of a microservices architecture.
 
-### *Personal / University*, [Strife of Mythology](https://github.com/StrifeOfMythologyTD/SoMTD) (2016-03 — 2016-08)
+### *Personal - Academic, FGA/UnB*, [Strife of Mythology](https://github.com/StrifeOfMythologyTD/SoMTD) (2016-03 — 2016-08)
 
 
 Main developer of Strife of Mythology, a 2D Isometric Tower Defense written in C++ and SDL2.
 
-### *LAPPIS*, [Noosfero](http://noosfero.org) (2014-12 — 2016-03)
+### *LAPPIS - Academic, FGA/UnB*, [Noosfero](http://noosfero.org) (2014-12 — 2016-03)
 
 
 Contributed to Noosfero, a Social Network written with Ruby on Rails
 
-### *LAPPIS*, [Mezuro](http://mezuro.org) (2016-08 — 2016-12)
+### *LAPPIS - Academic, FGA/UnB*, [Mezuro](http://mezuro.org) (2016-08 — 2016-12)
 
 
 Contributed to Mezuro, a metrics collector platform written in Ruby on Rails
