@@ -56,12 +56,12 @@ Contributed to Mezuro, a metrics collector platform written in Ruby on Rails
 
 ### [IME/USP](https://www.ime.usp.br/) (2017-08 — Present)
 
-The topic of my masters is big data data processing in smart cities platforms. More specifically, I am architecting and writting a Big Data middleware between smart cities platforms and Big Data tools to increase data processing usability to end users.
+The topic of my masters is big data processing in smart cities platforms. More specifically, I am architecting and writting a Big Data middleware between smart cities platforms and Big Data tools to increase data processing usability to end users.
 
 
 ### [FGA/UnB](https://unb.br/) (2012-07 — 2017-07)
 
-During my bachelor I had the opportunity to learn and train my skills in different areas of computer science. Although the main activities were related to web backend working with frameworks such as Ruby on Rails, Django, Databases, and Elixir, I have also worked with web frontend (EmberJS), game development (SDL2), and DevOps (Docker and scripting in general).
+During my bachelor I had the opportunity to learn and train my skills in different areas of computer science. Although the main activities were related to web backend working with frameworks such as Ruby on Rails, Django, and Elixir, I have also worked with web frontend (EmberJS), game development (SDL2), and DevOps (Docker and scripting in general).
 
 
 

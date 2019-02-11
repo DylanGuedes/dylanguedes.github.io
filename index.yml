@@ -79,14 +79,14 @@ education:
       url: 'https://www.ime.usp.br/'
       start: 2017-08
       title: 'Ends at July, 2019.'
-      summary: 'The topic of my masters is big data data processing in smart cities platforms. More specifically, I am architecting and writting a Big Data middleware between smart cities platforms and Big Data tools to increase data processing usability to end users.'
+      summary: 'The topic of my masters is big data processing in smart cities platforms. More specifically, I am architecting and writting a Big Data middleware between smart cities platforms and Big Data tools to increase data processing usability to end users.'
     -
       institution: FGA/UnB
       course: 'Bachelor in Software Engineering'
       url: 'https://unb.br/'
       start: 2012-07
       end: 2017-07
-      summary: 'During my bachelor I had the opportunity to learn and train my skills in different areas of computer science. Although the main activities were related to web backend working with frameworks such as Ruby on Rails, Django, Databases, and Elixir, I have also worked with web frontend (EmberJS), game development (SDL2), and DevOps (Docker and scripting in general).'
+      summary: 'During my bachelor I had the opportunity to learn and train my skills in different areas of computer science. Although the main activities were related to web backend working with frameworks such as Ruby on Rails, Django, and Elixir, I have also worked with web frontend (EmberJS), game development (SDL2), and DevOps (Docker and scripting in general).'
 skills:
   sets:
     -
