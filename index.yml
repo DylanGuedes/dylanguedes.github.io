@@ -3,12 +3,12 @@ meta:
   version: 0.4.0
 name: 'Dylan Jefferson M. G. Guedes'
 contact:
+  website1: github.com/DylanGuedes
+  website1_href: 'https://github.com/DylanGuedes'
   phone: '+55 (11) 99778 7427'
-  website1: dylanguedes.github.io
-  website1_href: 'https://dylanguedes.github.io'
-  website2: github.com/DylanGuedes
-  website2_href: 'https://github.com/DylanGuedes'
   email: djmgguedes@gmail.com
+  website2: dylanguedes.github.io
+  website2_href: 'https://dylanguedes.io'
 projects:
   -
     title: 'Apache Spark'
@@ -18,15 +18,14 @@ projects:
     end: 2018-07
     summary: 'Contributed to Apache Spark, an open source data processing engine. My main contribution was the addition of the *`arrays_zip`* function to SparkSQL, now available on 2.4.0. My contributions are available [here](https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes).'
     keywords:
-      - 'free software'
-      - 'big data processing'
+      - 'big data'
   -
     title: 'Strife of Mythology'
     role: 'Personal - Academic, FGA/UnB'
     url: 'https://github.com/StrifeOfMythologyTD/SoMTD'
     start: 2016-03
     end: 2016-08
-    summary: 'Main developer of Strife of Mythology, a mythologic theme tower defense in which the player have to prevent monsters waves from reaching a special flag. Although it is a 2D game, the player has a isometric vision. The game is written in C++ and SDL2 and uses a game engine that I also contributed to.'
+    summary: 'Main developer of Strife of Mythology, a tower defense game in which the player has to prevent mythologic monsters waves from reaching the end of a path. Although it is a 2D game, the player has an isometric view, similar to Age of Empires or Diablo II. The game is written in C++ and SDL2 and is built on top of a game engine that I also contributed to.'
     keywords:
       - SDL2
       - C++
@@ -50,26 +49,6 @@ projects:
     keywords:
       - Microservices
       - Backend
-  -
-    title: Noosfero
-    role: 'LAPPIS - Academic, FGA/UnB'
-    url: 'http://noosfero.org'
-    start: 2014-12
-    end: 2016-03
-    summary: 'Contributed to Noosfero, a Social Network written with Ruby on Rails'
-    keywords:
-      - 'Ruby on Rails'
-      - 'social network'
-  -
-    title: Mezuro
-    role: 'LAPPIS - Academic, FGA/UnB'
-    url: 'http://mezuro.org'
-    start: 2016-08
-    end: 2016-12
-    summary: 'Contributed to Mezuro, a metrics collector platform written in Ruby on Rails'
-    keywords:
-      - 'Ruby on Rails'
-      - metrics
 education:
   history:
     -
@@ -105,14 +84,18 @@ skills:
 employment:
   history:
     -
-      employer: LAPPIS
-      position: 'Backend Developer'
+      employer: 'LAPPIS - UnB/FGA'
+      position: 'Junior Developer/Internship'
       start: 2014-12
-      end: 2017-07
+      end: 2017-03
       url: 'https://github.com/lappis-unb'
       keywords:
         - Backend
         - 'free software'
+      highlights:
+        - 'Contributed with [Noosfero](http://noosfero.org), a social network written in Ruby on Rails.'
+        - 'Contributed with [Mezuro](http://mezuro.org)'
+        - 'Maintained [FGA/UnB website](https://fga.unb.br), built with Noosfero.'
 languages:
   -
     language: Portuguese

@@ -1,20 +1,25 @@
 {
   "basics": {
+    "website1": "github.com/DylanGuedes",
+    "website1_href": "https://github.com/DylanGuedes",
     "phone": "+55 (11) 99778 7427",
-    "website1": "dylanguedes.github.io",
-    "website1_href": "https://dylanguedes.github.io",
-    "website2": "github.com/DylanGuedes",
-    "website2_href": "https://github.com/DylanGuedes",
     "email": "djmgguedes@gmail.com",
+    "website2": "dylanguedes.github.io",
+    "website2_href": "https://dylanguedes.io",
     "name": "Dylan Jefferson M. G. Guedes"
   },
   "work": [
     {
-      "company": "LAPPIS",
+      "company": "LAPPIS - UnB/FGA",
       "website": "https://github.com/lappis-unb",
-      "position": "Backend Developer",
+      "position": "Junior Developer/Internship",
       "startDate": "2014-12",
-      "endDate": "2017-07"
+      "endDate": "2017-03",
+      "highlights": [
+        "Contributed with [Noosfero](http://noosfero.org), a social network written in Ruby on Rails.",
+        "Contributed with [Mezuro](http://mezuro.org)",
+        "Maintained [FGA/UnB website](https://fga.unb.br), built with Noosfero."
+      ]
     }
   ],
   "education": [
