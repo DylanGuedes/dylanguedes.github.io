@@ -21,8 +21,17 @@
       "url": "https://spark.apache.org/",
       "start": "2018-01",
       "end": "2018-07",
-      "summary": "Contributed to Apache Spark, a data processing engine. My main contribution was the addition of the `arrays_zip` function to SparkSQL, now available at Apache Spark 2.4.0. My contributions are available [here](https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes).",
+      "summary": "Contributed to Apache Spark, an open source data processing engine. My main contribution was the addition of the *`arrays_zip`* function to SparkSQL, now available on 2.4.0. My contributions are available [here](https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes).",
       "keywords": ["free software", "big data processing"]
+    },
+    {
+      "title": "Strife of Mythology",
+      "role": "Personal - Academic, FGA/UnB",
+      "url": "https://github.com/StrifeOfMythologyTD/SoMTD",
+      "start": "2016-03",
+      "end": "2016-08",
+      "summary": "Main developer of Strife of Mythology, a mythologic theme tower defense in which the player have to prevent monsters waves from reaching a special flag. Although it is a 2D game, the player has a isometric vision. The game is written in C++ and SDL2 and uses a game engine that I also contributed to.",
+      "keywords": ["SDL2", "C++"]
     },
     {
       "title": "InterSCSimulator",
@@ -30,7 +39,7 @@
       "url": "https://github.com/DylanGuedes/interscsimulator-blue",
       "start": "2018-08",
       "end": "2019-07",
-      "summary": "Contributed to InterSCSimulator, a smart cities simulator model built on top of SimDiasca, a general purpose large scaling simulator, both written in Erlang. I'm currently running a distributed experiment that simulates 100k+ vehicles in a São Paulo scenario in a cluster with 10+ nodes.",
+      "summary": "Contributed to InterSCSimulator, a smart cities simulator model built on top of [SimDiasca](https://www.edf.fr/en/the-edf-group/world-s-largest-power-company/activities/research-and-development/scientific-communities/simulation-softwares?logiciel=10832), a general purpose large scaling simulator, both written in Erlang. I'm currently running a distributed experiment that simulates 100k+ vehicles in a São Paulo scenario in a cluster with 10+ nodes.",
       "keywords": ["Erlang", "Distributed Processing"]
     },
     {
@@ -41,15 +50,6 @@
       "end": "2019-07",
       "summary": "Contributed to InterSCity, a smart cities platform built on top of a microservices architecture.",
       "keywords": ["Microservices", "Backend"]
-    },
-    {
-      "title": "Strife of Mythology",
-      "role": "Personal - Academic, FGA/UnB",
-      "url": "https://github.com/StrifeOfMythologyTD/SoMTD",
-      "start": "2016-03",
-      "end": "2016-08",
-      "summary": "Main developer of Strife of Mythology, a 2D Isometric Tower Defense written in C++ and SDL2.",
-      "keywords": ["SDL2", "C++", "Tower Defense"]
     },
     {
       "title": "Noosfero",
@@ -74,20 +74,20 @@
   "education": {
     "history": [
       {
-        "institution": "IME/USP",
+        "institution": "IME/USP - Institute of Mathematics and Statistics at the University of São Paulo",
         "course": "Masters in Computer Science",
         "url": "https://www.ime.usp.br/",
         "start": "2017-08",
-        "title": "Ends at July, 2019.",
-        "summary": "The topic of my masters is big data processing in smart cities platforms. More specifically, I am architecting and writting a Big Data middleware between smart cities platforms and Big Data tools to increase data processing usability to end users."
+        "title": "Ends in Jul, 2019.",
+        "summary": "Created a middleware between smart cities platforms and Big Data tools to increase data processing usability to end users. The project uses Apache Spark to process smart cities Big Data, has a backend written in Elixir language, and has a frontend written with EmberJS framework."
       },
       {
-        "institution": "FGA/UnB",
-        "course": "Bachelor in Software Engineering",
+        "institution": "FGA/UnB - Faculdade do Gama, Universidade de Brasília",
+        "course": "Bachelor of Science in Software Engineering",
         "url": "https://unb.br/",
         "start": "2012-07",
         "end": "2017-07",
-        "summary": "During my bachelor I had the opportunity to learn and train my skills in different areas of computer science. Although the main activities were related to web backend working with frameworks such as Ruby on Rails, Django, and Elixir, I have also worked with web frontend (EmberJS), game development (SDL2), and DevOps (Docker and scripting in general)."
+        "summary": "During my bachelor I had the opportunity to learn and train my skills in different areas of computer science. Although the main courses were related to web backend, I had also courses related to game development, competitive programming, free software, agile practices and electronics."
       }
     ]
   },
