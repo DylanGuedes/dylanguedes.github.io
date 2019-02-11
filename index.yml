@@ -3,49 +3,62 @@ meta:
   version: 0.4.0
 name: 'Dylan Jefferson M. G. Guedes'
 contact:
-  phone: '+55 (61) 98665 1407'
+  phone: '+55 (11) 99778 7427'
   website1: dylanguedes.github.io
   website1_href: 'https://dylanguedes.github.io'
   website2: github.com/DylanGuedes
   website2_href: 'https://github.com/DylanGuedes'
   email: djmgguedes@gmail.com
-employment:
-  history:
-    -
-      employer: LAPPIS
-      position: Developer
-      start: 2014-12
-      url: 'https://gitlab.com/unb-gama'
-      keywords:
-        - Ruby
-        - Rails
-        - Django
-        - JavaScript
-        - agile
-        - 'free software'
-      highlights:
-        - 'free software;'
-        - 'multiple projects.'
 projects:
+  -
+    title: 'Apache Spark'
+    role: Personal
+    url: 'https://spark.apache.org/'
+    start: 2018-01
+    end: 2018-07
+    summary: 'Contributed to Apache Spark, a data processing engine. My main contribution was the addition of the `zip_array` function to SparkSQL, now available at Apache Spark 2.4.0. My contributions are available [here](https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes).'
+    keywords:
+      - 'free software'
+      - 'big data processing'
+  -
+    title: InterSCSimulator
+    role: University
+    url: 'https://github.com/DylanGuedes/interscsimulator-blue'
+    start: 2018-08
+    end: 2019-07
+    summary: 'Contributed to InterSCSimulator, a smart cities simulator model built on top of SimDiasca, a general purpose large scaling simulator, both written in Erlang. I''m currently running a distributed experiment that simulates 100k+ vehicles in a São Paulo scenario in a cluster with 10+ nodes.'
+    keywords:
+      - Erlang
+      - 'Distributed Processing'
+  -
+    title: InterSCity
+    role: University
+    url: 'https://gitlab.com/interscity/interscity-platform'
+    start: 2017-08
+    end: 2019-07
+    summary: 'Contributed to InterSCity, a smart cities platform built on top of a microservices architecture.'
+    keywords:
+      - Microservices
+      - Backend
   -
     title: 'Strife of Mythology'
     role: 'Personal / University'
     url: 'https://github.com/StrifeOfMythologyTD/SoMTD'
     start: 2016-03
     end: 2016-08
-    summary: 'Developed SoMTD, a 2D Isometric Tower Defense, with C++ and SDL2.'
+    summary: 'Main developer of Strife of Mythology, a 2D Isometric Tower Defense written in C++ and SDL2.'
     keywords:
       - SDL2
       - C++
+      - 'Tower Defense'
   -
     title: Noosfero
     role: LAPPIS
     url: 'http://noosfero.org'
     start: 2014-12
-    end: 2017-03
-    summary: 'Maintained and evolved Noosfero, a FOSS Social Network, written with Ruby on Rails'
+    end: 2016-03
+    summary: 'Contributed to Noosfero, a Social Network written with Ruby on Rails'
     keywords:
-      - FOSS
       - 'Ruby on Rails'
       - 'social network'
   -
@@ -54,49 +67,53 @@ projects:
     url: 'http://mezuro.org'
     start: 2016-08
     end: 2016-12
-    summary: 'Maintained and evolved Mezuro, a metrics collector platform written in Ruby on Rails'
+    summary: 'Contributed to Mezuro, a metrics collector platform written in Ruby on Rails'
     keywords:
-      - FOSS
       - 'Ruby on Rails'
       - metrics
 education:
   history:
     -
-      institution: 'Universidade de Brasília'
+      institution: IME/USP
+      course: 'Masters in Computer Science'
+      url: 'https://www.ime.usp.br/'
+      start: 2017-08
+      title: 'Ends at July, 2019.'
+      summary: 'The topic of my masters is big data data processing in smart cities platforms. More specifically, I am architecting and writting a Big Data middleware between smart cities platforms and Big Data tools to increase data processing usability to end users.'
+    -
+      institution: FGA/UnB
       course: 'Bachelor in Software Engineering'
       url: 'https://unb.br/'
       start: 2012-07
-      title: 'Expected Graduation in December 2017.'
+      end: 2017-07
+      summary: 'During my bachelor I had the opportunity to learn and train my skills in different areas of computer science. Although the main activities were related to web backend working with frameworks such as Ruby on Rails, Django, Databases, and Elixir, I have also worked with web frontend (EmberJS), game development (SDL2), and DevOps (Docker and scripting in general).'
 skills:
   sets:
     -
-      name: Languages
+      name: 'Main skills'
       level: master
       skills:
-        - Elixir
-        - Ruby
+        - 'Systems Architecture'
+        - 'Backend Applications'
+        - 'Data Intensive Applications'
+    -
+      name: Technologies
+      level: master
+      skills:
+        - 'Apache Spark'
         - Python
-        - Javascript
-        - C++
+        - 'Elixir and Erlang'
+employment:
+  history:
     -
-      name: Frameworks
-      level: master
-      skills:
-        - Phoenix
-        - Rails
-        - EmberJS
-        - Django
-        - SDL2
-    -
-      name: Others
-      level: advanced
-      skills:
-        - RabbitMQ
-        - 'Neural Networks'
-        - Docker
-        - Vagrant
-        - Jenkins
-        - 'Lambda Architecture'
+      employer: LAPPIS
+      position: 'Backend Developer'
+      start: 2014-12
+      end: 2017-07
+      url: 'https://github.com/lappis-unb'
+      keywords:
+        - Backend
+        - 'free software'
 languages:
   -
     language: Portuguese

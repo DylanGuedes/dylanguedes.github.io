@@ -510,7 +510,7 @@
           <w:rPr>
             <w:sz w:val="16"/>
           </w:rPr>
-          <w:t>+55 (61) 98665 1407<w:br/></w:t>
+          <w:t>+55 (11) 99778 7427<w:br/></w:t>
         </w:r>
         <w:hlink w:dest="">
           <w:r wsp:rsidRPr="003876BF">
@@ -624,7 +624,7 @@
               <w:b/>
               <w:caps/>
             </w:rPr>
-            <w:t>Languages</w:t>
+            <w:t>Main skills</w:t>
           </w:r>
         </w:p>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
@@ -633,7 +633,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>Elixir  Ruby  Python  Javascript  C++</w:t>
+            <w:t>Systems Architecture  Backend Applications  Data Intensive Applications</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -683,7 +683,7 @@
               <w:b/>
               <w:caps/>
             </w:rPr>
-            <w:t>Frameworks</w:t>
+            <w:t>Technologies</w:t>
           </w:r>
         </w:p>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
@@ -692,66 +692,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>Phoenix  Rails  EmberJS  Django  SDL2</w:t>
-          </w:r>
-        </w:p>
-      </w:tc>
-    </w:tr>
-
-
-    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
-      <w:trPr>
-        <w:trHeight w:val="882"/>
-      </w:trPr>
-      <w:tc>
-        <w:tcPr>
-          <w:tcW w:w="828" w:type="dxa"/>
-          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
-        </w:tcPr>
-        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
-          <w:r>
-            <w:rPr>
-              <w:noProof/>
-            </w:rPr>
-            <w:pict>
-              <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#428BCA"  strokeweight="0"/>
-            </w:pict>
-          </w:r>
-          <w:r>
-            <w:rPr>
-              <w:noProof/>
-            </w:rPr>
-            <w:pict>
-              <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:8pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
-            </w:pict>
-          </w:r>
-        </w:p>
-      </w:tc>
-      <w:tc>
-        <w:tcPr>
-          <w:tcW w:w="8748" w:type="dxa"/>
-          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
-        </w:tcPr>
-        <w:p>
-          <w:pPr>
-            <w:spacing w:before="120"/>
-          </w:pPr>
-          <w:r>
-            <w:rPr>
-              <w:sz w:val="24"/>
-              <w:b/>
-              <w:caps/>
-            </w:rPr>
-            <w:t>Others</w:t>
-          </w:r>
-        </w:p>
-        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
-          <w:r>
-            <w:rPr>
-              <w:caps/>
-              <w:spacing w:val="22"/>
-            </w:rPr>
-            <w:t>RabbitMQ  Neural Networks  Docker  Vagrant  Jenkins  Lambda Architecture</w:t>
+            <w:t>Apache Spark  Python  Elixir and Erlang</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -818,9 +759,9 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Developer, </w:t>
+        <w:t>Backend Developer, </w:t>
       </w:r>
-      <w:hlink w:dest="https://gitlab.com/unb-gama">
+      <w:hlink w:dest="https://github.com/lappis-unb">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
@@ -835,7 +776,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>Dec 2014 — Present</w:t>
+        <w:t>Dec 2014 — Jul 2017</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -847,36 +788,6 @@
       
     </w:p>
 
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>free software;</w:t></w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>multiple projects.</w:t></w:r>
-    </w:p>
 
   </wx:sub-section>
 
@@ -918,6 +829,132 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Personal, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://spark.apache.org/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Apache Spark</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2018-01 — 2018-07</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Contributed to Apache Spark, a data processing engine. My main contribution was the addition of the </w:t></w:r><w:r><w:rPr></w:rPr><w:t>zip_array</w:t></w:r><w:r><w:rPr></w:rPr><w:t> function to SparkSQL, now available at Apache Spark 2.4.0. My contributions are available </w:t></w:r><w:hlink w:dest="https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>here</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>.</w:t></w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>University, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://github.com/DylanGuedes/interscsimulator-blue">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>InterSCSimulator</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2018-08 — 2019-07</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Contributed to InterSCSimulator, a smart cities simulator model built on top of SimDiasca, a general purpose large scaling simulator, both written in Erlang. I&amp;apos;m currently running a distributed experiment that simulates 100k+ vehicles in a São Paulo scenario in a cluster with 10+ nodes.</w:t></w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>University, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://gitlab.com/interscity/interscity-platform">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>InterSCity</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2017-08 — 2019-07</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Contributed to InterSCity, a smart cities platform built on top of a microservices architecture.</w:t></w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
         <w:t>Personal / University, </w:t>
       </w:r>
       <w:hlink w:dest="https://github.com/StrifeOfMythologyTD/SoMTD">
@@ -944,7 +981,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Developed SoMTD, a 2D Isometric Tower Defense, with C++ and SDL2.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Main developer of Strife of Mythology, a 2D Isometric Tower Defense written in C++ and SDL2.</w:t></w:r>
     </w:p>
 
 
@@ -977,7 +1014,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>2014-12 — 2017-03</w:t>
+        <w:t>2014-12 — 2016-03</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -986,7 +1023,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Maintained and evolved Noosfero, a FOSS Social Network, written with Ruby on Rails</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Contributed to Noosfero, a Social Network written with Ruby on Rails</w:t></w:r>
     </w:p>
 
 
@@ -1028,7 +1065,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Maintained and evolved Mezuro, a metrics collector platform written in Ruby on Rails</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Contributed to Mezuro, a metrics collector platform written in Ruby on Rails</w:t></w:r>
     </w:p>
 
 
@@ -1072,12 +1109,12 @@
           <w:tab w:val="right" w:pos="9360"/>
         </w:tabs>
       </w:pPr>
-      <w:hlink w:dest="https://unb.br/">
+      <w:hlink w:dest="https://www.ime.usp.br/">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>Universidade de Brasília</w:t>
+          <w:t>IME/USP</w:t>
         </w:r>
       </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
@@ -1087,7 +1124,38 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>2012 — Present</w:t>
+        <w:t>2017 — Present</w:t>
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="https://unb.br/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>FGA/UnB</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2012 — 2017</w:t>
       </w:r>
     </w:p>
 

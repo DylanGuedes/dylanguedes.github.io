@@ -1,6 +1,6 @@
 Dylan Jefferson M. G. Guedes
 Email: djmgguedes@gmail.com
-Tel: +55 (61) 98665 1407
+Tel: +55 (11) 99778 7427
 
 ================================================================================
 
@@ -8,37 +8,52 @@ Tel: +55 (61) 98665 1407
 
 SKILLS -------------------------------------------------------------------------
 
-- Languages: Elixir Ruby Python Javascript C++ 
-- Frameworks: Phoenix Rails EmberJS Django SDL2 
-- Others: RabbitMQ Neural Networks Docker Vagrant Jenkins Lambda Architecture 
+- Main skills: Systems Architecture Backend Applications Data Intensive Applications 
+- Technologies: Apache Spark Python Elixir and Erlang 
+
 
 EMPLOYMENT ---------------------------------------------------------------------
 
-Developer, LAPPIS (2014-12 — Present)
+Backend Developer, LAPPIS (2014-12 — 2017-07)
 
-- free software;
-- multiple projects.
 
 
 PROJECTS -----------------------------------------------------------------------
 
+Apache Spark, Personal (2018-01 — 2018-07)
+
+Contributed to Apache Spark, a data processing engine. My main contribution was the addition of the `zip_array` function to SparkSQL, now available at Apache Spark 2.4.0. My contributions are available [here](https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes).
+
+InterSCSimulator, University (2018-08 — 2019-07)
+
+Contributed to InterSCSimulator, a smart cities simulator model built on top of SimDiasca, a general purpose large scaling simulator, both written in Erlang. I'm currently running a distributed experiment that simulates 100k+ vehicles in a São Paulo scenario in a cluster with 10+ nodes.
+
+InterSCity, University (2017-08 — 2019-07)
+
+Contributed to InterSCity, a smart cities platform built on top of a microservices architecture.
+
 Strife of Mythology, Personal / University (2016-03 — 2016-08)
 
-Developed SoMTD, a 2D Isometric Tower Defense, with C++ and SDL2.
+Main developer of Strife of Mythology, a 2D Isometric Tower Defense written in C++ and SDL2.
 
-Noosfero, LAPPIS (2014-12 — 2017-03)
+Noosfero, LAPPIS (2014-12 — 2016-03)
 
-Maintained and evolved Noosfero, a FOSS Social Network, written with Ruby on Rails
+Contributed to Noosfero, a Social Network written with Ruby on Rails
 
 Mezuro, LAPPIS (2016-08 — 2016-12)
 
-Maintained and evolved Mezuro, a metrics collector platform written in Ruby on Rails
+Contributed to Mezuro, a metrics collector platform written in Ruby on Rails
 
 
 
 EDUCATION ----------------------------------------------------------------------
 
-Universidade de Brasília (2012-07 — Present)
+IME/USP (2017-08 — Present)
+The topic of my masters is big data data processing in smart cities platforms. More specifically, I am architecting and writting a Big Data middleware between smart cities platforms and Big Data tools to increase data processing usability to end users.
+
+FGA/UnB (2012-07 — 2017-07)
+During my bachelor I had the opportunity to learn and train my skills in different areas of computer science. Although the main activities were related to web backend working with frameworks such as Ruby on Rails, Django, Databases, and Elixir, I have also worked with web frontend (EmberJS), game development (SDL2), and DevOps (Docker and scripting in general).
+
 
 
 
