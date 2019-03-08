@@ -71,9 +71,10 @@ skills:
       name: 'Main skills'
       level: master
       skills:
+        - 'Data Intensive Applications'
         - 'Systems Architecture'
         - 'Backend Applications'
-        - 'Data Intensive Applications'
+        - 'Big Data Solutions'
     -
       name: Technologies
       level: master

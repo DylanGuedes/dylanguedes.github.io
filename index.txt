@@ -8,7 +8,7 @@ Tel: +55 (11) 99778 7427
 
 SKILLS -------------------------------------------------------------------------
 
-- Main skills: Systems Architecture Backend Applications Data Intensive Applications 
+- Main skills: Data Intensive Applications Systems Architecture Backend Applications Big Data Solutions 
 - Technologies: Apache Spark Python Elixir and Erlang 
 
 
