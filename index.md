@@ -16,9 +16,7 @@ Tel: +55 (11) 99778 7427
 ### *Junior Developer/Internship*, [LAPPIS - UnB/FGA](https://github.com/lappis-unb) (2014-12 — 2017-03)
 
 
-  - Contributed with [Noosfero](http://noosfero.org), a social network written in Ruby on Rails.
-  - Contributed with [Mezuro](http://mezuro.org)
-  - Maintained [FGA/UnB website](https://fga.unb.br), built with Noosfero.
+  - Made contributions to some Free Software Projects, such as Mezuro and Noosfero.
 
 
 ## PROJECTS
@@ -31,7 +29,7 @@ Contributed to Apache Spark, an open source data processing engine. My main cont
 ### *Personal - Academic, FGA/UnB*, [Strife of Mythology](https://github.com/StrifeOfMythologyTD/SoMTD) (2016-03 — 2016-08)
 
 
-Main developer of Strife of Mythology, a tower defense game in which the player has to prevent mythologic monsters waves from reaching the end of a path. Although it is a 2D game, the player has an isometric view, similar to Age of Empires or Diablo II. The game is written in C++ and SDL2 and is built on top of a game engine that I also contributed to.
+Developer of Strife of Mythology, a tower defense game in which the player has to prevent mythologic monsters waves from reaching the end of a path. Although it is a 2D game, the player has an isometric view, similar to Age of Empires or Diablo II. The game is written in C++ and SDL2 and is built on top of a game engine that I also contributed to.
 
 ### *Academic, IME/USP*, [InterSCSimulator](https://github.com/DylanGuedes/interscsimulator-blue) (2018-08 — 2019-07)
 

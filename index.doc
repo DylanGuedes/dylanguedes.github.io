@@ -801,37 +801,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Contributed with </w:t></w:r><w:hlink w:dest="http://noosfero.org"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Noosfero</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>, a social network written in Ruby on Rails.</w:t></w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Contributed with </w:t></w:r><w:hlink w:dest="http://mezuro.org"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Mezuro</w:t></w:r></w:hlink>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Maintained </w:t></w:r><w:hlink w:dest="https://fga.unb.br"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>FGA/UnB website</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>, built with Noosfero.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Made contributions to some Free Software Projects, such as Mezuro and Noosfero.</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -942,7 +912,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Main developer of Strife of Mythology, a tower defense game in which the player has to prevent mythologic monsters waves from reaching the end of a path. Although it is a 2D game, the player has an isometric view, similar to Age of Empires or Diablo II. The game is written in C++ and SDL2 and is built on top of a game engine that I also contributed to.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Developer of Strife of Mythology, a tower defense game in which the player has to prevent mythologic monsters waves from reaching the end of a path. Although it is a 2D game, the player has an isometric view, similar to Age of Empires or Diablo II. The game is written in C++ and SDL2 and is built on top of a game engine that I also contributed to.</w:t></w:r>
     </w:p>
 
 
