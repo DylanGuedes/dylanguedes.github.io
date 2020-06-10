@@ -7,8 +7,8 @@ contact:
   website1_href: 'https://github.com/DylanGuedes'
   phone: '+55 (11) 99778 7427'
   email: djmgguedes@gmail.com
-  website2: dylanguedes.github.io
-  website2_href: 'https://dylanguedes.io'
+  website2: LinkedIn/DylanGuedes
+  website2_href: 'https://www.linkedin.com/in/dylan-guedes-71a13715b'
 projects:
   -
     title: 'Apache Spark'
@@ -16,9 +16,9 @@ projects:
     url: 'https://spark.apache.org/'
     start: 2018-01
     end: 2018-07
-    summary: 'Contributed to Apache Spark, an open source data processing engine. My main contribution was the addition of the *`arrays_zip`* function to SparkSQL, now available on 2.4.0. My contributions are available [here](https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes).'
+    summary: 'Contributed to Apache Spark, an open source data processing engine. My main contributions were the addition of the *`arrays_zip`* function to SparkSQL, now available on 2.4.0, and the migration of several tests from PostgreSQL to SparkSQL. My contributions are available [here](https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes).'
     keywords:
-      - 'big data'
+      - 'distributed processing'
   -
     title: 'Strife of Mythology'
     role: 'Personal - Academic, FGA/UnB'
@@ -35,7 +35,7 @@ projects:
     url: 'https://github.com/DylanGuedes/interscsimulator-blue'
     start: 2018-08
     end: 2019-07
-    summary: 'Contributed to InterSCSimulator, a smart cities simulator model built on top of [SimDiasca](https://www.edf.fr/en/the-edf-group/world-s-largest-power-company/activities/research-and-development/scientific-communities/simulation-softwares?logiciel=10832), a general purpose large scaling simulator, both written in Erlang. I''m currently running a distributed experiment that simulates 100k+ vehicles in a São Paulo scenario in a cluster with 10+ nodes.'
+    summary: 'Contributed to InterSCSimulator, a smart cities simulator model built on top of [SimDiasca](https://www.edf.fr/en/the-edf-group/world-s-largest-power-company/activities/research-and-development/scientific-communities/simulation-softwares?logiciel=10832), a general purpose large scaling simulator, both written in Erlang. Using both, I ran a distributed experiment that simulated 100k+ vehicles in a São Paulo scenario in a cluster with 10+ nodes.'
     keywords:
       - Erlang
       - 'Distributed Processing'
@@ -57,7 +57,7 @@ education:
       url: 'https://www.ime.usp.br/'
       start: 2017-08
       title: 'Ends in Jul, 2019.'
-      summary: 'Created a middleware between smart cities platforms and Big Data tools to increase data processing usability to end users. The project uses Apache Spark to process smart cities Big Data, has a backend written in Elixir language, and has a frontend written with EmberJS framework.'
+      summary: 'Created a middleware between smart cities platforms and Apache Spark to increase data processing usability to end users. The backend [is written in Elixir language](https://github.com/DylanGuedes/data-processor-backend) and has a frontend written with EmberJS framework. Thesis title: <i>Distributed Processing Integration in a Smart Cities Platform.</i>'
     -
       institution: 'FGA/UnB - Faculdade do Gama, Universidade de Brasília'
       course: 'Bachelor of Science in Software Engineering'
@@ -71,10 +71,9 @@ skills:
       name: 'Main skills'
       level: master
       skills:
+        - 'Software Engineer Practices'
         - 'Data Intensive Applications'
         - 'Systems Architecture'
-        - 'Backend Applications'
-        - 'Big Data Solutions'
     -
       name: Technologies
       level: master
@@ -85,16 +84,16 @@ skills:
 employment:
   history:
     -
-      employer: 'LAPPIS - UnB/FGA'
-      position: 'Junior Developer/Internship'
-      start: 2014-12
-      end: 2017-03
-      url: 'https://github.com/lappis-unb'
+      employer: 'Wildlife Studios'
+      position: 'Software Engineer'
+      start: 2019-08
+      url: 'https://wildlifestudios.com'
       keywords:
-        - Backend
-        - 'free software'
+        - 'tools development'
+        - 'ads monetization'
+        - Objective-C
       highlights:
-        - 'Made contributions to some Free Software Projects, such as Mezuro and Noosfero.'
+        - 'At Wildlife, I''m a software engineer from the tools team. Our team writes tools that are used by our mobile games, and there I was focused on our advertisement libs, responsible for allowing our games to show ads in the best possible way. The main languages that I use there are Objective-C and Java (to work with the ads libraries), and Scala/Apache Spark to query our data to get insights.'
 languages:
   -
     language: Portuguese

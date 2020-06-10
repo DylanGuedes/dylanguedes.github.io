@@ -633,7 +633,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>Data Intensive Applications  Systems Architecture  Backend Applications  Big Data Solutions</w:t>
+            <w:t>Software Engineer Practices  Data Intensive Applications  Systems Architecture</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -759,14 +759,14 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Junior Developer/Internship, </w:t>
+        <w:t>Software Engineer, </w:t>
       </w:r>
-      <w:hlink w:dest="https://github.com/lappis-unb">
+      <w:hlink w:dest="https://wildlifestudios.com">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>LAPPIS - UnB/FGA</w:t>
+          <w:t>Wildlife Studios</w:t>
         </w:r>
       </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
@@ -776,7 +776,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>Dec 2014 — Mar 2017</w:t>
+        <w:t>Aug 2019 — Present</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -801,7 +801,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Made contributions to some Free Software Projects, such as Mezuro and Noosfero.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>At Wildlife, I&amp;apos;m a software engineer from the tools team. Our team writes tools that are used by our mobile games, and there I was focused on our advertisement libs, responsible for allowing our games to show ads in the best possible way. The main languages that I use there are Objective-C and Java (to work with the ads libraries), and Scala/Apache Spark to query our data to get insights.</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -870,7 +870,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Contributed to Apache Spark, an open source data processing engine. My main contribution was the addition of the </w:t></w:r><w:r><w:rPr><w:i/></w:rPr><w:t>arrays_zip</w:t></w:r><w:r><w:rPr></w:rPr><w:t> function to SparkSQL, now available on 2.4.0. My contributions are available </w:t></w:r><w:hlink w:dest="https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>here</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Contributed to Apache Spark, an open source data processing engine. My main contributions were the addition of the </w:t></w:r><w:r><w:rPr><w:i/></w:rPr><w:t>arrays_zip</w:t></w:r><w:r><w:rPr></w:rPr><w:t> function to SparkSQL, now available on 2.4.0, and the migration of several tests from PostgreSQL to SparkSQL. My contributions are available </w:t></w:r><w:hlink w:dest="https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>here</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>.</w:t></w:r>
     </w:p>
 
 
@@ -954,7 +954,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Contributed to InterSCSimulator, a smart cities simulator model built on top of </w:t></w:r><w:hlink w:dest="https://www.edf.fr/en/the-edf-group/world-s-largest-power-company/activities/research-and-development/scientific-communities/simulation-softwares?logiciel=10832"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>SimDiasca</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>, a general purpose large scaling simulator, both written in Erlang. I&amp;apos;m currently running a distributed experiment that simulates 100k+ vehicles in a São Paulo scenario in a cluster with 10+ nodes.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Contributed to InterSCSimulator, a smart cities simulator model built on top of </w:t></w:r><w:hlink w:dest="https://www.edf.fr/en/the-edf-group/world-s-largest-power-company/activities/research-and-development/scientific-communities/simulation-softwares?logiciel=10832"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>SimDiasca</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>, a general purpose large scaling simulator, both written in Erlang. Using both, I ran a distributed experiment that simulated 100k+ vehicles in a São Paulo scenario in a cluster with 10+ nodes.</w:t></w:r>
     </w:p>
 
 

@@ -4,19 +4,18 @@
     "website1_href": "https://github.com/DylanGuedes",
     "phone": "+55 (11) 99778 7427",
     "email": "djmgguedes@gmail.com",
-    "website2": "dylanguedes.github.io",
-    "website2_href": "https://dylanguedes.io",
+    "website2": "LinkedIn/DylanGuedes",
+    "website2_href": "https://www.linkedin.com/in/dylan-guedes-71a13715b",
     "name": "Dylan Jefferson M. G. Guedes"
   },
   "work": [
     {
-      "company": "LAPPIS - UnB/FGA",
-      "website": "https://github.com/lappis-unb",
-      "position": "Junior Developer/Internship",
-      "startDate": "2014-12",
-      "endDate": "2017-03",
+      "company": "Wildlife Studios",
+      "website": "https://wildlifestudios.com",
+      "position": "Software Engineer",
+      "startDate": "2019-08",
       "highlights": [
-        "Made contributions to some Free Software Projects, such as Mezuro and Noosfero."
+        "At Wildlife, I'm a software engineer from the tools team. Our team writes tools that are used by our mobile games, and there I was focused on our advertisement libs, responsible for allowing our games to show ads in the best possible way. The main languages that I use there are Objective-C and Java (to work with the ads libraries), and Scala/Apache Spark to query our data to get insights."
       ]
     }
   ],
@@ -36,10 +35,9 @@
       "name": "Main skills",
       "level": "master",
       "keywords": [
+        "Software Engineer Practices",
         "Data Intensive Applications",
-        "Systems Architecture",
-        "Backend Applications",
-        "Big Data Solutions"
+        "Systems Architecture"
       ]
     },
     {
