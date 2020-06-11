@@ -8,20 +8,21 @@ Tel: +55 (11) 99778 7427
 
 ## SKILLS
 
-  - Main skills: Software Engineer Practices Data Intensive Applications Systems Architecture 
-  - Technologies: Apache Spark Python Elixir and Erlang 
+  - Python: I have been using Python since 2016, mainly to write scripts, to do data analysis, to write a simple backend server (using Django), and to contribute to some free software projects. 
+  - Kubernetes: I had a brief experience with Kubernetes during my master's. I was evaluating it as the Spark resource manager on a experiment that I was going to perform, however, I didn't get good results and changed back to a different resource manager. I think the reasons were: I used Minikube, which is already not suitable for such a task, but also because Spark support for Kubernetes was not mature at time. In any case, I was always interested in digging deep into Kubernetes but that was my only opportunity. 
 
 ## EMPLOYMENT
 
 ### *Software Engineer*, [Wildlife Studios](https://wildlifestudios.com) (2019-08 — Present)
 
 
-  - At Wildlife, I'm a software engineer from the tools team. Our team writes tools that are used by our mobile games, and there I was focused on our advertisement libs, responsible for allowing our games to show ads in the best possible way. The main languages that I use there are Objective-C and Java (to work with the ads libraries), and Scala/Apache Spark to query our data to get insights.
+  - At Wildlife, I'm a software engineer from the tools team, responsible for writing tools that are used by our greatest titles - from Tennis Clash to Sniper 3D. The main languages that I use there are Objective-C and Java (to work with the libraries), Python for scripting and Scala/Python/Apache Spark to query our data to get insights.
+  - In the last months I was focused on improving our ads libraries, used by our games to show ads. My contributions includes several crashes fixes, improvements to the quality of code and logic optimizations that increased the revenue.
 
 
 ## PROJECTS
 
-### *Personal*, [Apache Spark](https://spark.apache.org/) (2018-01 — 2018-07)
+### *Personal*, [Apache Spark](https://spark.apache.org/) (2018-01 — Present)
 
 
 Contributed to Apache Spark, an open source data processing engine. My main contributions were the addition of the *`arrays_zip`* function to SparkSQL, now available on 2.4.0, and the migration of several tests from PostgreSQL to SparkSQL. My contributions are available [here](https://github.com/apache/spark/pulls?q=is%3Apr+is%3Aclosed+author%3ADylanGuedes).
@@ -34,7 +35,7 @@ Developer of Strife of Mythology, a tower defense game in which the player has t
 ### *Academic, IME/USP*, [InterSCSimulator](https://github.com/DylanGuedes/interscsimulator-blue) (2018-08 — 2019-07)
 
 
-Contributed to InterSCSimulator, a smart cities simulator model built on top of [SimDiasca](https://www.edf.fr/en/the-edf-group/world-s-largest-power-company/activities/research-and-development/scientific-communities/simulation-softwares?logiciel=10832), a general purpose large scaling simulator, both written in Erlang. Using both, I ran a distributed experiment that simulated 100k+ vehicles in a São Paulo scenario in a cluster with 10+ nodes.
+Contributed to InterSCSimulator, a smart cities simulator model built on top of [SimDiasca](https://www.edf.fr/en/the-edf-group/world-s-largest-power-company/activities/research-and-development/scientific-communities/simulation-softwares?logiciel=10832), a general purpose large scaling simulator, both written in Erlang.
 
 ### *Academic, IME/USP*, [InterSCity](https://gitlab.com/interscity/interscity-platform) (2017-08 — 2019-07)
 
@@ -45,7 +46,7 @@ Contributed to InterSCity, a smart cities platform built on top of a microservic
 
 ## EDUCATION
 
-### [IME/USP - Institute of Mathematics and Statistics at the University of São Paulo](https://www.ime.usp.br/) (2017-08 — Present)
+### [IME/USP - Institute of Mathematics and Statistics at the University of São Paulo](https://www.ime.usp.br/) (2017-08 — 2019-12)
 
 Created a middleware between smart cities platforms and Apache Spark to increase data processing usability to end users. The backend [is written in Elixir language](https://github.com/DylanGuedes/data-processor-backend) and has a frontend written with EmberJS framework. Thesis title: <i>Distributed Processing Integration in a Smart Cities Platform.</i>
 

@@ -596,7 +596,7 @@
               <w:noProof/>
             </w:rPr>
             <w:pict>
-              <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#C00000"  strokeweight="0"/>
+              <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor=""  strokeweight="0"/>
             </w:pict>
           </w:r>
           <w:r>
@@ -604,7 +604,7 @@
               <w:noProof/>
             </w:rPr>
             <w:pict>
-              <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:0pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
+              <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
             </w:pict>
           </w:r>
         </w:p>
@@ -624,7 +624,7 @@
               <w:b/>
               <w:caps/>
             </w:rPr>
-            <w:t>Main skills</w:t>
+            <w:t>Python</w:t>
           </w:r>
         </w:p>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
@@ -633,7 +633,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>Software Engineer Practices  Data Intensive Applications  Systems Architecture</w:t>
+            <w:t>I have been using Python since 2016, mainly to write scripts, to do data analysis, to write a simple backend server (using Django), and to contribute to some free software projects.</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -655,7 +655,7 @@
               <w:noProof/>
             </w:rPr>
             <w:pict>
-              <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#C00000"  strokeweight="0"/>
+              <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor=""  strokeweight="0"/>
             </w:pict>
           </w:r>
           <w:r>
@@ -663,7 +663,7 @@
               <w:noProof/>
             </w:rPr>
             <w:pict>
-              <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:0pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
+              <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
             </w:pict>
           </w:r>
         </w:p>
@@ -683,7 +683,7 @@
               <w:b/>
               <w:caps/>
             </w:rPr>
-            <w:t>Technologies</w:t>
+            <w:t>Kubernetes</w:t>
           </w:r>
         </w:p>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
@@ -692,7 +692,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>Apache Spark  Python  Elixir and Erlang</w:t>
+            <w:t>I had a brief experience with Kubernetes during my master&amp;apos;s. I was evaluating it as the Spark resource manager on a experiment that I was going to perform, however, I didn&amp;apos;t get good results and changed back to a different resource manager. I think the reasons were: I used Minikube, which is already not suitable for such a task, but also because Spark support for Kubernetes was not mature at time. In any case, I was always interested in digging deep into Kubernetes but that was my only opportunity.</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -801,7 +801,22 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>At Wildlife, I&amp;apos;m a software engineer from the tools team. Our team writes tools that are used by our mobile games, and there I was focused on our advertisement libs, responsible for allowing our games to show ads in the best possible way. The main languages that I use there are Objective-C and Java (to work with the ads libraries), and Scala/Apache Spark to query our data to get insights.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>At Wildlife, I&amp;apos;m a software engineer from the tools team, responsible for writing tools that are used by our greatest titles - from Tennis Clash to Sniper 3D. The main languages that I use there are Objective-C and Java (to work with the libraries), Python for scripting and Scala/Python/Apache Spark to query our data to get insights.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>In the last months I was focused on improving our ads libraries, used by our games to show ads. My contributions includes several crashes fixes, improvements to the quality of code and logic optimizations that increased the revenue.</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -861,7 +876,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>2018-01 — 2018-07</w:t>
+        <w:t>2018-01 — Present</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -954,7 +969,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Contributed to InterSCSimulator, a smart cities simulator model built on top of </w:t></w:r><w:hlink w:dest="https://www.edf.fr/en/the-edf-group/world-s-largest-power-company/activities/research-and-development/scientific-communities/simulation-softwares?logiciel=10832"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>SimDiasca</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>, a general purpose large scaling simulator, both written in Erlang. Using both, I ran a distributed experiment that simulated 100k+ vehicles in a São Paulo scenario in a cluster with 10+ nodes.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Contributed to InterSCSimulator, a smart cities simulator model built on top of </w:t></w:r><w:hlink w:dest="https://www.edf.fr/en/the-edf-group/world-s-largest-power-company/activities/research-and-development/scientific-communities/simulation-softwares?logiciel=10832"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>SimDiasca</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>, a general purpose large scaling simulator, both written in Erlang.</w:t></w:r>
     </w:p>
 
 
@@ -1055,7 +1070,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>2017 — Present</w:t>
+        <w:t>2017 — 2019</w:t>
       </w:r>
     </w:p>
 

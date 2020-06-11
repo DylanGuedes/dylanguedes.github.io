@@ -15,14 +15,16 @@
       "position": "Software Engineer",
       "startDate": "2019-08",
       "highlights": [
-        "At Wildlife, I'm a software engineer from the tools team. Our team writes tools that are used by our mobile games, and there I was focused on our advertisement libs, responsible for allowing our games to show ads in the best possible way. The main languages that I use there are Objective-C and Java (to work with the ads libraries), and Scala/Apache Spark to query our data to get insights."
+        "At Wildlife, I'm a software engineer from the tools team, responsible for writing tools that are used by our greatest titles - from Tennis Clash to Sniper 3D. The main languages that I use there are Objective-C and Java (to work with the libraries), Python for scripting and Scala/Python/Apache Spark to query our data to get insights.",
+        "In the last months I was focused on improving our ads libraries, used by our games to show ads. My contributions includes several crashes fixes, improvements to the quality of code and logic optimizations that increased the revenue."
       ]
     }
   ],
   "education": [
     {
       "institution": "IME/USP - Institute of Mathematics and Statistics at the University of São Paulo",
-      "startDate": "2017-08"
+      "startDate": "2017-08",
+      "endDate": "2019-12"
     },
     {
       "institution": "FGA/UnB - Faculdade do Gama, Universidade de Brasília",
@@ -32,21 +34,15 @@
   ],
   "skills": [
     {
-      "name": "Main skills",
-      "level": "master",
+      "name": "Python",
       "keywords": [
-        "Software Engineer Practices",
-        "Data Intensive Applications",
-        "Systems Architecture"
+        "I have been using Python since 2016, mainly to write scripts, to do data analysis, to write a simple backend server (using Django), and to contribute to some free software projects."
       ]
     },
     {
-      "name": "Technologies",
-      "level": "master",
+      "name": "Kubernetes",
       "keywords": [
-        "Apache Spark",
-        "Python",
-        "Elixir and Erlang"
+        "I had a brief experience with Kubernetes during my master's. I was evaluating it as the Spark resource manager on a experiment that I was going to perform, however, I didn't get good results and changed back to a different resource manager. I think the reasons were: I used Minikube, which is already not suitable for such a task, but also because Spark support for Kubernetes was not mature at time. In any case, I was always interested in digging deep into Kubernetes but that was my only opportunity."
       ]
     }
   ],
