@@ -36,13 +36,13 @@
     {
       "name": "Python",
       "keywords": [
-        "I have been using Python since 2016, mainly to write scripts, to do data analysis, to write a simple backend server (using Django), and to contribute to some free software projects."
+        "I have been using Python since 2016, mainly to write scripts, to perform data analysis, to write a simple backend server (using Django), and to contribute to some free software projects."
       ]
     },
     {
       "name": "Kubernetes",
       "keywords": [
-        "I had a brief experience with Kubernetes during my master's. I was evaluating it as the Spark resource manager on a experiment that I was going to perform, however, I didn't get good results and changed back to a different resource manager. I think the reasons were: I used Minikube, which is already not suitable for such a task, but also because Spark support for Kubernetes was not mature at time. In any case, I was always interested in digging deep into Kubernetes but that was my only opportunity."
+        "I had a brief experience with Kubernetes during my master's degree. I was evaluating it as the Spark resource manager on a experiment that I was going to perform, however, I didn't get good results and changed back to a different resource manager. I think the reasons were: I used Minikube, which is already not suitable for such a task, but also because Spark support for Kubernetes was not mature at that time. In any case, I was always interested in digging deep into Kubernetes but that was my only opportunity."
       ]
     }
   ],
